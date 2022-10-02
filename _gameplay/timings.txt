@@ -1,0 +1,25 @@
+scatter, 7
+chase, 20
+scatter, 7
+chase, 20
+scatter, 5
+chase, 20
+scatter, 5
+chase, 9999
+
+scatter, 7
+chase, 20
+scatter, 7
+chase, 20
+scatter, 5
+chase, 9999
+
+scatter, 5
+chase, 20
+scatter, 5
+chase, 20
+scatter, 5
+chase, 9999
+
+
+
