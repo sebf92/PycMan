@@ -1,11 +1,11 @@
 # PycMan
 PacMan fan game using PyGame
 
-[![PycMan](readme.rsc/PycMan1.png)](https://youtu.be/Sico2ezpFKY) { width: 600px; }
+[![PycMan](readme.rsc/PycMan1.png)](https://youtu.be/Sico2ezpFKY)
 
-[![PycMan](readme.rsc/PycMan2.png)](https://youtu.be/Sico2ezpFKY) { width: 600px; }
+[![PycMan](readme.rsc/PycMan2.png)](https://youtu.be/Sico2ezpFKY)
 
-[![PycMan](readme.rsc/PycMan3.png)](https://youtu.be/Sico2ezpFKY) { width: 600px; }
+[![PycMan](readme.rsc/PycMan3.png)](https://youtu.be/Sico2ezpFKY)
 
 - Arrows Left / Right / Up / Down to move pacman
 - ESC to quit the game
