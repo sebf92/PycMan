@@ -1,6 +1,8 @@
 # PycMan
 PacMan fan game using PyGame
 
+Clic on the screenshots to see the video
+
 [![PycMan](readme.rsc/PycMan1.png)](https://youtu.be/Sico2ezpFKY)
 
 [![PycMan](readme.rsc/PycMan2.png)](https://youtu.be/Sico2ezpFKY)
@@ -11,6 +13,7 @@ PacMan fan game using PyGame
 - ESC to quit the game
 
 To run this game in windows launch build.cmd
+
 The game exe will be located in the /build directory
 
 To run this game in python, first install the prerequisites
