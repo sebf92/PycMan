@@ -11,6 +11,7 @@ Clic on the screenshots to see the video
 
 - Arrows Left / Right / Up / Down to move pacman
 - ESC to quit the game
+- You can also play this game with your joystick
 
 To run this game in windows launch build.cmd
 
